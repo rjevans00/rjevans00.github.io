@@ -34,18 +34,7 @@ footer {
     font-size: .8em;
 }
 
-  .button {
-         background-color:#008080;
-         border: none;
-         color: white;
-         padding: 6px 9px;
-         text-align: center;
-         text-decoration: none;
-         display: inline-block;
-         font-size: 14px;
-         margin:auto;
-         cursor: pointer;
-}
+ 
 
 
 ul.posts { 
